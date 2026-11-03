@@ -1,0 +1,9 @@
+* text=auto
+*.cs text
+*.ps1 text
+*.md text
+*.xml text
+*.manifest text
+*.ico binary
+*.png binary
+*.exe binary

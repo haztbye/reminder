@@ -1,0 +1,26 @@
+# 本地配置与日志（用户机器生成，不提交）
+config.xml
+config.bad.xml
+提醒日志.txt
+提醒日志.old.txt
+
+# 截图/测试产物
+截图/
+实时截图/
+_verify/
+_scratch/
+_test_*/
+*.tmp
+
+# 常见 IDE / 构建产物
+*.user
+*.suo
+.vs/
+bin/
+obj/
+*.pdb
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
