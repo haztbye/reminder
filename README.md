@@ -44,7 +44,7 @@
 
 ```powershell
 git clone https://github.com/haztbye/reminder.git
-cd kaoyan-reminder
+cd reminder
 powershell -NoProfile -ExecutionPolicy Bypass -File .\src\build.ps1
 ```
 
